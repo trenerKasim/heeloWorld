@@ -1,2 +1,0 @@
-# heeloWorld
-lesson
